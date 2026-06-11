@@ -46,7 +46,8 @@ This project is an interactive IPL Analysis Dashboard built using Tableau. The d
   
 - Batting vs Fielding decision analysis
 
-- 3️ ] Batting Statistics :-
+ 
+ 3️ ] Batting Statistics :-
   
 - Runs scored
 
