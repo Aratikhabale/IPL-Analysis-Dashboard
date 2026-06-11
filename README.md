@@ -82,3 +82,11 @@ This project is an interactive IPL Analysis Dashboard built using Tableau. The d
 - Season-wise analysis
   
 - Dynamic dashboard updates based on selected season
+
+📸 Dashboard :-
+
+-Dashboard Interaction 1 <a href="https://github.com/Aratikhabale/IPL-Analysis-Dashboard/blob/main/Dashboard%201.png">View Dashboard </a>
+
+-Dashboard Interaction 2 <a href="https://github.com/Aratikhabale/IPL-Analysis-Dashboard/blob/main/Dashboard%202.png"> View Dashboard</a>
+
+
