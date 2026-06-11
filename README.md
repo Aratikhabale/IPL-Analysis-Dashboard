@@ -45,3 +45,39 @@ This project is an interactive IPL Analysis Dashboard built using Tableau. The d
 - Toss decision winning percentage
   
 - Batting vs Fielding decision analysis
+
+- 3️ ] Batting Statistics :-
+  
+- Runs scored
+
+- Balls faced
+
+- Strike rate
+
+- Matches played
+
+- Number of 4s and 6s
+
+- Centuries and Half-centuries
+
+- Highest Score
+
+4️ ] Bowling Statistics :-
+
+- Matches played
+  
+- Overs bowled
+  
+- Economy Rate
+  
+- Wickets taken
+  
+- Bowling Average
+  
+- Strike Rate
+- 
+5️ ] Interactive Filters
+
+- Season-wise analysis
+  
+- Dynamic dashboard updates based on selected season
