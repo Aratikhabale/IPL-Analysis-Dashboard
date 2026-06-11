@@ -6,13 +6,13 @@ This project is an interactive IPL Analysis Dashboard built using Tableau. The d
 
  🎯 Objectives
  
-Analyze IPL match outcomes and team performance.
+- Analyze IPL match outcomes and team performance.
 
-Identify Orange Cap and Purple Cap leaders.
+- Identify Orange Cap and Purple Cap leaders.
 
-Compare batting and bowling statistics.
+- Compare batting and bowling statistics.
 
-Understand the impact of toss decisions on match results.
+- Understand the impact of toss decisions on match results.
 
-Visualize tournament-wide records such as total fours and sixes.
+- Visualize tournament-wide records such as total fours and sixes.
 
