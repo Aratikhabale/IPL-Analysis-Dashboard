@@ -22,3 +22,26 @@ This project is an interactive IPL Analysis Dashboard built using Tableau. The d
 
 
 -<a href= "https://github.com/Aratikhabale/IPL-Analysis-Dashboard/blob/main/IPL%20Ball-by-Ball%202008-2020.csv"> Dataset 2</a>
+
+
+📊 Dashboard Features
+
+1️ ] Tournament Overview :-
+
+- Match-winning team analysis
+
+- Orange Cap holder (Highest Run Scorer)
+  
+- Purple Cap holder (Highest Wicket Taker)
+  
+- Total Tournament Sixes
+  
+- Total Tournament Fours
+  
+2️ ] Toss Analysis:-
+
+- Match wins based on toss decisions
+  
+- Toss decision winning percentage
+  
+- Batting vs Fielding decision analysis
