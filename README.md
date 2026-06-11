@@ -103,7 +103,8 @@ This project is an interactive IPL Analysis Dashboard built using Tableau. The d
 - Tournament-wide batting trends were analyzed through fours and sixes statistics.
 
 
-- Conclusion :-
+ 
+ Conclusion >>>>>
   
 - This IPL Analysis Dashboard provides valuable insights into team performance, player statistics, and match outcomes across multiple IPL seasons.
 
