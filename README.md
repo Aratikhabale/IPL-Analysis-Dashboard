@@ -16,3 +16,6 @@ This project is an interactive IPL Analysis Dashboard built using Tableau. The d
 
 - Visualize tournament-wide records such as total fours and sixes.
 
+📂 Dataset
+
+-<a href= "https://github.com/Aratikhabale/IPL-Analysis-Dashboard/blob/main/IPL%20Matches%202008-2020.csv">Dataset 1</a>
