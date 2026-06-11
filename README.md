@@ -85,8 +85,33 @@ This project is an interactive IPL Analysis Dashboard built using Tableau. The d
 
 📸 Dashboard :-
 
--Dashboard Interaction 1 <a href="https://github.com/Aratikhabale/IPL-Analysis-Dashboard/blob/main/Dashboard%201.png">View Dashboard </a>
+-Dashboard Interaction 1 ) <a href="https://github.com/Aratikhabale/IPL-Analysis-Dashboard/blob/main/Dashboard%201.png">View Dashboard </a>
 
--Dashboard Interaction 2 <a href="https://github.com/Aratikhabale/IPL-Analysis-Dashboard/blob/main/Dashboard%202.png"> View Dashboard</a>
+-Dashboard Interaction 2 ) <a href="https://github.com/Aratikhabale/IPL-Analysis-Dashboard/blob/main/Dashboard%202.png"> View Dashboard</a>
+
+
+📈 Key Insights
+
+- Mumbai Indians emerged as one of the most successful teams.
+  
+- Virat Kohli recorded the highest runs in the dataset.
+  
+- Lasith Malinga was among the leading wicket-takers.
+  
+- Teams choosing to field after winning the toss had a higher winning percentage.
+  
+- Tournament-wide batting trends were analyzed through fours and sixes statistics.
+
+
+- Conclusion :-
+  
+- This IPL Analysis Dashboard provides valuable insights into team performance, player statistics, and match outcomes across multiple IPL seasons.
+
+- The dashboard effectively visualizes batting, bowling, and toss-related trends using interactive Tableau charts and filters.
+  
+- It helps users analyze key metrics such as Orange Cap, Purple Cap, total fours, and total sixes.
+
+- Overall, the project demonstrates the power of data visualization in transforming raw cricket data into meaningful insights for better decision-making and analysis. 🏏📊
+
 
 
