@@ -19,3 +19,6 @@ This project is an interactive IPL Analysis Dashboard built using Tableau. The d
 📂 Dataset
 
 -<a href= "https://github.com/Aratikhabale/IPL-Analysis-Dashboard/blob/main/IPL%20Matches%202008-2020.csv">Dataset 1</a>
+
+
+-<a href= "https://github.com/Aratikhabale/IPL-Analysis-Dashboard/blob/main/IPL%20Ball-by-Ball%202008-2020.csv"> Dataset 2</a>
