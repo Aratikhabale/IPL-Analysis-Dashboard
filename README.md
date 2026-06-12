@@ -1,4 +1,4 @@
-# IPL-Analysis-Dashboard
+# IPL-Analysis-Dashboard ( Tableau)
 
 📌 Project Overview
 
